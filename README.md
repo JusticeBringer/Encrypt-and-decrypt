@@ -10,5 +10,5 @@ Semi-cripted image is stored in internal memory and secret keys are read from tx
 It is generated an array of random elements, then a permutation and it is made an inverse permutation of pixels
 It is applied xor after a certain formula
 Cripted image is now saved in external memory
-Chi squared test is calculated and results are shown to the user
+Chi squared test is calculated and results are shown to the user.
 
