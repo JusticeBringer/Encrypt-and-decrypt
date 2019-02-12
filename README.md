@@ -2,7 +2,7 @@
 
 Workflow:
 
-Initial image is stored in internal memory and the secret keys are read from txt file.
+Initial image is stored in internal memory and the secret keys are read from txt file. 
 There are generated random numbers, then a permutation and pixels are permuted
 The given array elements are xor-ed with a certain formula
 Image obtained is saved in external memory
